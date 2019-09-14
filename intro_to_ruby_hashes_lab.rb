@@ -29,9 +29,6 @@ def monopoly_with_third_tier
         :dos => 2,
         :tres => 3,
         :quatro => 4,
-        :reading_railroad => {
-          
-        }
       }
     }
   }
