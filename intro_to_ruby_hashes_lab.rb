@@ -25,9 +25,7 @@ def monopoly_with_third_tier
         :four_pieces_owned => 200
       },
       :names => {
-        :railroads => {
-          
-        }
+        :railroads => { },
         :uno => 1,
         :dos => 2,
         :tres => 3,
